@@ -1,1 +1,2 @@
 este é um exercício para o git
+mudanças de plano
